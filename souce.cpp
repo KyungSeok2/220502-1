@@ -11,8 +11,8 @@ int main()
 	cout << Money * 20 << endl;
 	cout << Money / 2 << endl;
 
-	cout << " " << endl;
-	cout << " " << endl;
+	cout << endl;
+	cout << endl;
 
 	float DPS;
 	DPS = 100.0f;
